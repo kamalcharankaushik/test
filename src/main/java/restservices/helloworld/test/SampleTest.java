@@ -6,6 +6,8 @@ import javax.enterprise.context.ApplicationScoped;
 public class SampleTest {
 
 	public String method() {
-		return "hello , i am kamal charan kaushik";
+
+		return "hi , i am kamal charan kaushik";
+
 	}
 }
