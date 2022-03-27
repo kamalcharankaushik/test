@@ -7,7 +7,7 @@ public class SampleTest {
 
 	public String method() {
 
-		return "I am kamal charan kaushik";
+		return "hi,I am kamal";
 
 	}
 }
