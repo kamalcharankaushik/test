@@ -6,7 +6,7 @@ import javax.enterprise.context.ApplicationScoped;
 public class SampleTest {
 
 	public String method() {
-
+System.out.print(true);
 		return "I am kamal charan kaushik(kck)";
 
 	}
