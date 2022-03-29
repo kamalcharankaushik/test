@@ -5,4 +5,7 @@ public class Sample {
 	public void newMethod() {
 		System.out.print("I am learning");
 	}
+	public void oneMore() {
+		System.out.println("i learned");
+	}
 }
