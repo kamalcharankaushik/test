@@ -8,4 +8,9 @@ public class Sample {
 	public void oneMore() {
 		System.out.println("i learned");
 	}
+	
+	public void oneMore1() {
+		System.out.println("i am still learning");
+	}
+	
 }
