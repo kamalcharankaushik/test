@@ -12,5 +12,8 @@ public class Sample {
 	public void oneMore1() {
 		System.out.println("i am still learning");
 	}
+	public void oneMore11() {
+		System.out.println("i am still learning today");
+	}
 	
 }
