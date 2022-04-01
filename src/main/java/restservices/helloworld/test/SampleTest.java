@@ -9,9 +9,6 @@ public class SampleTest {
 System.out.print("hello");
 		return "I am kamal charan kaushik(kck)";
 		
-
-	}
-
 	public String fun() {
 		// TODO Auto-generated method stub
 		return "Hello kamal charan";
