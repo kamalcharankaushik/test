@@ -20,7 +20,7 @@ SampleTest sampletest;
     @Consumes(MediaType.APPLICATION_JSON)
     @Produces(MediaType.APPLICATION_JSON)
     public String helloworld() {
-        return "hello kamal";
+        return sampletest.fun();
     }
     @GET
     @Path("/hello-import")

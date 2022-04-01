@@ -6,8 +6,11 @@ import javax.enterprise.context.ApplicationScoped;
 public class SampleTest {
 
 	public String method() {
-
-		return "hi,I am kamal kaushik";
-
+System.out.print("hello");
+		return "I am kamal charan kaushik(kck)";
+		
+	public String fun() {
+		// TODO Auto-generated method stub
+		return "Hello kamal charan";
 	}
 }
