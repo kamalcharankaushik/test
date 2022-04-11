@@ -16,4 +16,8 @@ public class Sample {
 		System.out.println("i am still learning today");
 	}
 	
+	public void hello() {
+		System.out.println("kaushik");
+	}
+	
 }
